@@ -33,12 +33,14 @@ def queue_markup(
         ]
     ]
     dur = [
-        [
-            InlineKeyboardButton(
-                text=_["QU_B_2"].format(played, dur),
-                callback_data="GetTimer",
-            )
-        ],
+          [
+                InlineKeyboardButton(
+                    text="💁🅖ℝ📀𝕌ℙ🤺", url=f"https://t.me/Lions_OF_Punjab"
+                ),
+                InlineKeyboardButton(
+                    text="❤️🅾🆆🅽🅴🆁🤍", url=f"https://t.me/Aujla_PB_65"
+                ),
+            ],
         [
             InlineKeyboardButton(
                 text=_["QU_B_1"],
