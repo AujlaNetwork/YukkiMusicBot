@@ -42,12 +42,10 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text=_["PL_B_2"],
-                callback_data=f"add_playlist {videoid}",
+                text="💁🅖ℝ📀𝕌ℙ🤺", url=f"https://t.me/Lions_OF_Punjab"
             ),
             InlineKeyboardButton(
-                text=_["PL_B_3"],
-                callback_data=f"PanelMarkup {videoid}|{chat_id}",
+                text="❤️🅾🆆🅽🅴🆁🤍", url=f"https://t.me/Aujla_PB_65"
             ),
         ],
         [
